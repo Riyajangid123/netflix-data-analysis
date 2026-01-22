@@ -63,3 +63,6 @@ This analysis helps derive actionable insights into Netflix’s content strategy
 ## Conclusion
 This project demonstrates effective use of Python for data cleaning, exploratory data analysis, and visualization.  
 The insights derived provide a clear understanding of Netflix’s content trends, production patterns, and audience targeting strategy.
+The Netflix dataset is too large to host directly on GitHub.  
+You can download it here: [Netflix Dataset](https://drive.google.com/file/d/1e9DZNPlyTXy2m9R1Fa15ALyNptT0_6xu/view?usp=sharing)
+
